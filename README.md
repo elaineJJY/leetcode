@@ -1,3 +1,5 @@
+>fork了大佬的仓库  想在自己跟着刷题的时候如果遇到问题可以记录下来，然后会删掉一些原来的说明什么的 ——JJY
+
 # LeetCode
 
 [![Travis](https://img.shields.io/badge/language-C++-green.svg)]()
@@ -11,8 +13,6 @@
 [![](https://img.shields.io/badge/Zhihu-知乎-blue)](https://www.zhihu.com/people/lu-xiao-13-70)
 [![](https://img.shields.io/badge/bilili-哔哩哔哩-ff69b4)](https://space.bilibili.com/519510412/)
 
-![历史共访问次数](https://visitor-count-badge.herokuapp.com/total.svg?repo_id=azl397985856.leetcode)
-![今天被访问次数](https://visitor-count-badge.herokuapp.com/today.svg?repo_id=azl397985856.leetcode)
 
 > 统计数据的时间是从 2019-09-03 19:40 起至今
 
