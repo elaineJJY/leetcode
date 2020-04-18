@@ -125,7 +125,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 
 #### 简单难度
 
-- [0001.TwoSum](./problems/1.TwoSum.md) 🆕
+- [0001.TwoSum](./problems/1.TwoSum.md) 🆕√
 - [0020.Valid Parentheses](./problems/20.validParentheses.md)
 - [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md) 🆕
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
@@ -388,6 +388,7 @@ anki - 文件 - 导入 - 下拉格式选择“打包的 anki 集合”，然后�
 
 - 如果有想法和创意，请提 [issue](https://github.com/azl397985856/leetcode/issues) 或者进群提
 - 如果想贡献代码，请提 [PR](https://github.com/azl397985856/leetcode/pulls)
+  
   > 关于如何提交题解，我写了一份 [指南](./templates/problems/1014.best-sightseeing-pair.md)
 - 如果需要修改项目中图片，[这里](./assets/drawio/) 存放了项目中绘制图的源代码， 大家可以用 [draw.io](https://www.draw.io/) 打开进行编辑。
 
