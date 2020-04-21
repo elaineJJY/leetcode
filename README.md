@@ -27,7 +27,7 @@
 - [0001.TwoSum](./problems/1.TwoSum.md) √
 - [0020.Valid Parentheses](./problems/20.validParentheses.md) √
 - [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md) √
-- [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)
+- [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)  √
 - [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md) 
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
 - [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
