@@ -16,7 +16,10 @@
 
 ### 按照题型分类
 
+##### 排序
 
+* [0046.permutations](./problems/46.permutations.md) √ （回溯法）
+* 
 
 ### 按照难度分类
 
@@ -28,8 +31,8 @@
 - [0020.Valid Parentheses](./problems/20.validParentheses.md) √
 - [0021.MergeTwoSortedLists](./problems/21.MergeTwoSortedLists.md) √
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)  √
-- [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md) 
-- [0088.merge-sorted-array](./problems/88.merge-sorted-array.md)
+- [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md) √
+- [0088.merge-sorted-array](./problems/88.merge-sorted-array.md) √
 - [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
 - [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)
 - [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
@@ -76,7 +79,7 @@
 - [0033.search-in-rotated-sorted-array](./problems/33.search-in-rotated-sorted-array.md)
 - [0039.combination-sum](./problems/39.combination-sum.md)
 - [0040.combination-sum-ii](./problems/40.combination-sum-ii.md)
-- [0046.permutations](./problems/46.permutations.md)
+- [0046.permutations](./problems/46.permutations.md) √
 - [0047.permutations-ii](./problems/47.permutations-ii.md)
 - [0048.rotate-image](./problems/48.rotate-image.md)
 - [0049.group-anagrams](./problems/49.group-anagrams.md)
