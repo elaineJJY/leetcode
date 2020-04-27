@@ -19,7 +19,7 @@
 ##### 排序
 
 * [0046.permutations](./problems/46.permutations.md) √ （回溯法）
-* 
+* [0017.Letter-Combinations-of-a-Phone-Number](./problems/17.Letter-Combinations-of-a-Phone-Number.md) √（回溯法）
 
 ### 按照难度分类
 
@@ -70,7 +70,7 @@
 - [0005.longest-palindromic-substring](./problems/5.longest-palindromic-substring.md)
 - [0011.container-with-most-water](./problems/11.container-with-most-water.md)
 - [0015.3-sum](./problems/15.3-sum.md)
-- [0017.Letter-Combinations-of-a-Phone-Number](./problems/17.Letter-Combinations-of-a-Phone-Number.md) 🆕
+- [0017.Letter-Combinations-of-a-Phone-Number](./problems/17.Letter-Combinations-of-a-Phone-Number.md) √
 - [0019. Remove Nth Node From End of List](./problems/19.removeNthNodeFromEndofList.md)
 - [0022.GenerateParentheses](./problems/22.GenerateParentheses.md) 🆕
 - [0024. Swap Nodes In Pairs](./problems/24.swapNodesInPairs.md)
