@@ -33,10 +33,10 @@
 - [0026.remove-duplicates-from-sorted-array](./problems/26.remove-duplicates-from-sorted-array.md)  √
 - [0053.maximum-sum-subarray](./problems/53.maximum-sum-subarray-cn.md) √
 - [0088.merge-sorted-array](./problems/88.merge-sorted-array.md) √
-- [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)
-- [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)
+- [0104.maximum-depth-of-binary-tree](./problems/104.maximum-depth-of-binary-tree.md)√
+- [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)√
 - [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
-- [0125.valid-palindrome](./problems/125.valid-palindrome.md) 🆕
+- [0125.valid-palindrome](./problems/125.valid-palindrome.md) √
 - [0136.single-number](./problems/136.single-number.md)
 - [0155.min-stack](./problems/155.min-stack.md) 🆕
 - [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
