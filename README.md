@@ -37,11 +37,11 @@
 - [0121.best-time-to-buy-and-sell-stock](./problems/121.best-time-to-buy-and-sell-stock.md)√
 - [0122.best-time-to-buy-and-sell-stock-ii](./problems/122.best-time-to-buy-and-sell-stock-ii.md)
 - [0125.valid-palindrome](./problems/125.valid-palindrome.md) √
-- [0136.single-number](./problems/136.single-number.md)
-- [0155.min-stack](./problems/155.min-stack.md) 🆕
-- [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)
-- [0169.majority-element](./problems/169.majority-element.md)
-- [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)
+- [0136.single-number](./problems/136.single-number.md) √
+- [0155.min-stack](./problems/155.min-stack.md) √
+- [0167.two-sum-ii-input-array-is-sorted](./problems/167.two-sum-ii-input-array-is-sorted.md)√
+- [0169.majority-element](./problems/169.majority-element.md)√
+- [0172.factorial-trailing-zeroes](./problems/172.factorial-trailing-zeroes.md)√
 - [0190.reverse-bits](./problems/190.reverse-bits.md)
 - [0191.number-of-1-bits](./problems/191.number-of-1-bits.md)
 - [0198.house-robber](./problems/198.house-robber.md)
@@ -65,8 +65,8 @@
 
 ##### 中等难度
 
-- [0002. Add Two Numbers](./problems/2.addTwoNumbers.md)
-- [0003. Longest Substring Without Repeating Characters](./problems/3.longestSubstringWithoutRepeatingCharacters.md)
+- [0002. Add Two Numbers](./problems/2.addTwoNumbers.md)√
+- [0003. Longest Substring Without Repeating Characters](./problems/3.longestSubstringWithoutRepeatingCharacters.md)√
 - [0005.longest-palindromic-substring](./problems/5.longest-palindromic-substring.md)
 - [0011.container-with-most-water](./problems/11.container-with-most-water.md)
 - [0015.3-sum](./problems/15.3-sum.md)
